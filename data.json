@@ -1,0 +1,27 @@
+[
+ {
+"name": "Fathima Hospital",
+"count": 400,
+"location": "Mavoor Road"
+},
+{
+"name": "Victoria hospital",
+"count": 200,
+"location": "Karaparamba"
+},
+{
+"name": "IQRAA hospital",
+"count": 350,
+"location": "Nadakkavu"
+},
+{
+"name": "Starcare hospital",
+"count": 800,
+"location": "Mankkavu"
+},
+{
+"name": "Apollo hospital",
+"count": 900,
+"location": "Chevayoor"
+}
+]
